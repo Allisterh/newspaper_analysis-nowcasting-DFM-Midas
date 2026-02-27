@@ -139,4 +139,4 @@ However, the LDA estimation and cross-validation for this model required more me
 Feel free to use the code provided in this repository for your research or projects. If you utilize this code, please cite the paper: Okuneva M., Hauber P., Carstensen K., & Bär J. (2024). Nowcasting German GDP with Text Data. CESifo Working Paper Series 11587.
 
 ## Contact
-If you have any questions about this repository or the related research, please feel free to contact Mariia Okuneva at [mokuneva@stat-econ.uni-kiel.de](mailto:mokuneva@stat-econ.uni-kiel.de).
+If you have any questions about this repository or the related research, please feel free to contact Mariia Okuneva at [miokuneva2@gmail.com](mailto:miokuneva2@gmail.com).
